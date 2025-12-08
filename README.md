@@ -5,6 +5,7 @@ A **minimally invasive endoscopic sinus fluid extraction device** designed for s
 This system integrates **inspection, irrigation, and suction channels** into a single tube, while combining **servo-controlled bending**, **embedded microcontroller logic**, and **AI-assisted imaging** for enhanced precision and efficiency.
 
 ---
+<img src="https://github.com/dubey331/Multifunctional\_sinoscope/blob/main/Picture1.jpg">
 
 ## 🚀 Features
 - **Multi-channel tube design**: Inspection, irrigation, and suction in one device  
