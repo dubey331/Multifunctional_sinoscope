@@ -15,7 +15,7 @@ This system integrates **inspection, irrigation, and suction channels** into a s
 - **Embedded control**: Atmega328p microcontroller for reliable low-level operations  
 
 ---
-<img src="https://github.com/dubey331/Multifunctional_sinoscope/blob/main/Picture1.jpg">
+<img src="https://github.com/dubey331/Multifunctional_sinoscope/blob/main/schematics.png">
 ## 🛠️ Technical Stack
 
 ### Hardware
